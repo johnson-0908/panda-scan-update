@@ -1,11 +1,11 @@
 {
-  "version": "1.1.8",
-  "notes": "v1.1.8：紧急修复——1.1.7 老用户升级后启动崩溃(no such column: employee_id)。原因是数据库索引在补列之前建,已修正迁移顺序。其余功能同 1.1.7(手打修复、怀疑数据、多用户隔离)。",
-  "pub_date": "2026-06-30T03:47:57+08:00",
+  "version": "1.1.9",
+  "notes": "v1.1.9：彻底修好手动输入——①小键盘(数字键盘)打的数字也能录(不受NumLock影响);②兼容中文输入法全角数字;③用拼音输入法时前面的拼音字母自动清掉,不再把'拼音+单号'拼成垃圾。含1.1.8启动崩溃修复。",
+  "pub_date": "2026-06-30T04:25:48+08:00",
   "full": {
-    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.8/ExpressScan-1.1.8.exe",
-    "sha256": "69a24a61272722be7785bac084f42466c4e4477390987de1c147e0d675a3fdf9",
-    "size": 51941172
+    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.9/ExpressScan-1.1.9.exe",
+    "sha256": "4ed8d3c0f065905b42db53bc043420457023744e194fafdf32c509b78f2a6c05",
+    "size": 51944798
   },
   "patches": []
 }
