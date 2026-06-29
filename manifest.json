@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "notes": "v1.1.4：修复「再次打开程序时闪退」(无控制台构建下 stderr 为空导致的崩溃)；现在重复双击图标会把已在后台/托盘运行的窗口唤到前台，不再报错。配套：开机自启改为管理员计划任务、登录态长期保持(仅退出/被挤掉才需重登)、修复应用图标。",
-  "pub_date": "2026-06-30T01:10:31+08:00",
+  "version": "1.1.5",
+  "notes": "v1.1.5：新增「防员工退出」（托盘右键无退出、关窗只最小化到托盘）；新增「手打支持」（在别的软件里手动键入单号回车也能识别入库，严格命中快递单号规则才录）；在线连接改用 WebSocket，更稳更省资源。",
+  "pub_date": "2026-06-30T01:51:07+08:00",
   "full": {
-    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.4/ExpressScan-1.1.4.exe",
-    "sha256": "56708364d4df6748abeb6276aadf8f3516cb922b06c68400f9ad1abbb605e893",
-    "size": 51736584
+    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.5/ExpressScan-1.1.5.exe",
+    "sha256": "f9545028b2eb92a7771cbecb454594b8e7c5049f093de67049bffa5eed9eb84b",
+    "size": 51935467
   },
   "patches": []
 }
