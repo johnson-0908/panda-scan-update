@@ -1,11 +1,11 @@
 {
-  "version": "1.1.9",
-  "notes": "v1.1.9：彻底修好手动输入——①小键盘(数字键盘)打的数字也能录(不受NumLock影响);②兼容中文输入法全角数字;③用拼音输入法时前面的拼音字母自动清掉,不再把'拼音+单号'拼成垃圾。含1.1.8启动崩溃修复。",
-  "pub_date": "2026-06-30T04:25:48+08:00",
+  "version": "1.1.10",
+  "notes": "v1.1.10：彻底解决自动更新时偶发的'python312.dll加载失败/缺模块'崩溃——更新改为【不自动重启】,装好后弹'请重新打开'提示,你手动双击打开(干净启动,不再有这个崩溃)。",
+  "pub_date": "2026-06-30T04:38:34+08:00",
   "full": {
-    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.9/ExpressScan-1.1.9.exe",
-    "sha256": "4ed8d3c0f065905b42db53bc043420457023744e194fafdf32c509b78f2a6c05",
-    "size": 51944798
+    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.10/ExpressScan-1.1.10.exe",
+    "sha256": "da606811a691b18ccd518d7766c15ef3f756a78e31cd678e5711c3afd5ae4a07",
+    "size": 51944597
   },
   "patches": []
 }
