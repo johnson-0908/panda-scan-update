@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "v1.1.0：员工账号登录（手机号+密码）+ 单设备登录(异地自动挤掉) + 必须联网才能扫 + 全新熊猫图标",
-  "pub_date": "2026-06-29T16:56:14+08:00",
+  "version": "1.1.1",
+  "notes": "v1.1.1：预填服务器地址(106.52.182.193:18088) + 员工登录 + 新熊猫图标",
+  "pub_date": "2026-06-29T21:07:39+08:00",
   "full": {
-    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.0/ExpressScan-1.1.0.exe",
-    "sha256": "a41987f30a04f5f3600b4fb4b119f945668bf13eaf27ade160c531ddee083d46",
-    "size": 51733661
+    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.1/ExpressScan-1.1.1.exe",
+    "sha256": "fb012563d1c5182f68c8b82d3c29e69cc80dcc3aa572c119d4f78a8ebed5447f",
+    "size": 51732398
   },
   "patches": []
 }
