@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "v1.0.0：首个 OTA 版本（侧栏新 UI + 熊猫 LOGO 图标 + 桌面浮窗提示 + 启动自动检查更新）",
-  "pub_date": "2026-06-29T15:36:49+08:00",
+  "version": "1.1.0",
+  "notes": "v1.1.0：员工账号登录（手机号+密码）+ 单设备登录(异地自动挤掉) + 必须联网才能扫 + 全新熊猫图标",
+  "pub_date": "2026-06-29T16:56:14+08:00",
   "full": {
-    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.0.0/ExpressScan-1.0.0.exe",
-    "sha256": "86d446eb3fc6c6534d4335a9bf076ca5212b0e7d2783e54aede197701367f494",
-    "size": 51520732
+    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.0/ExpressScan-1.1.0.exe",
+    "sha256": "a41987f30a04f5f3600b4fb4b119f945668bf13eaf27ade160c531ddee083d46",
+    "size": 51733661
   },
   "patches": []
 }
