@@ -1,11 +1,11 @@
 {
-  "version": "1.1.11",
-  "notes": "v1.1.11：设置页「识别与运行」各项锁成只读(防员工乱改,只能看不能改);老板需修改在 data/config.json 改对应项后重启,或将 lock_settings 设 false 解锁。含1.1.9手打修复、1.1.10更新不再崩。",
-  "pub_date": "2026-06-30T05:47:03+08:00",
+  "version": "1.1.12",
+  "notes": "v1.1.12：右下角扫码浮窗改小一点(约小22%,更不挡视线)。累积:手打修复(小键盘/全角/拼音)、更新不再崩、设置锁定。",
+  "pub_date": "2026-06-30T06:00:14+08:00",
   "full": {
-    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.11/ExpressScan-1.1.11.exe",
-    "sha256": "63f9325c9913e9c79a67df5bbaf629ce5b1f2708647d9f2f47116961b7adc8de",
-    "size": 51944402
+    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.12/ExpressScan-1.1.12.exe",
+    "sha256": "9a58aabf82bffc0e8c22df04e85b5fca8e28dcb1384208799649ca4ff3e5f1b6",
+    "size": 51944276
   },
   "patches": []
 }
