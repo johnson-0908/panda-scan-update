@@ -1,11 +1,11 @@
 {
-  "version": "1.1.6",
-  "notes": "v1.1.6：手动输入单号大改进——①不再卡死号段：所有国内快递（含未列号段）只要长得像单号即可录入；②自动学习：从扫码枪扫到的真实单号动态学习本店实际的单号格式，手打命中已学格式也能录；③补全中通79等号段识别。另修复OTA自动更新重启偶发的启动报错。",
-  "pub_date": "2026-06-30T02:36:16+08:00",
+  "version": "1.1.7",
+  "notes": "v1.1.7：①修复手动输入——扫码枪能录的单号(含8~11位纯数字)手打也能录了(原来手打门槛偏严会漏);②怀疑数据标记:认不出快递公司的单号照常录入但标'怀疑',记录页可只看怀疑,导出带怀疑列;③多用户数据隔离:同一台机器不同员工登录,各自只看自己的数据;④OTA自动更新重启加固。",
+  "pub_date": "2026-06-30T03:35:20+08:00",
   "full": {
-    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.6/ExpressScan-1.1.6.exe",
-    "sha256": "c5b8cdf99eaacb4440f20b6f008e1b9b81c081ddae3aae8d40dc5b1d05415c63",
-    "size": 51939826
+    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.7/ExpressScan-1.1.7.exe",
+    "sha256": "7277090b9e5efdaca258d541a37ad02c7b1f5cf9cc2ba49d81a390c5b0a7813b",
+    "size": 51941876
   },
   "patches": []
 }
