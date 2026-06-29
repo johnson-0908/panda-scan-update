@@ -1,11 +1,11 @@
 {
-  "version": "1.1.10",
-  "notes": "v1.1.10：彻底解决自动更新时偶发的'python312.dll加载失败/缺模块'崩溃——更新改为【不自动重启】,装好后弹'请重新打开'提示,你手动双击打开(干净启动,不再有这个崩溃)。",
-  "pub_date": "2026-06-30T04:38:34+08:00",
+  "version": "1.1.11",
+  "notes": "v1.1.11：设置页「识别与运行」各项锁成只读(防员工乱改,只能看不能改);老板需修改在 data/config.json 改对应项后重启,或将 lock_settings 设 false 解锁。含1.1.9手打修复、1.1.10更新不再崩。",
+  "pub_date": "2026-06-30T05:47:03+08:00",
   "full": {
-    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.10/ExpressScan-1.1.10.exe",
-    "sha256": "da606811a691b18ccd518d7766c15ef3f756a78e31cd678e5711c3afd5ae4a07",
-    "size": 51944597
+    "url": "https://ghfast.top/https://github.com/johnson-0908/panda-scan-update/releases/download/v1.1.11/ExpressScan-1.1.11.exe",
+    "sha256": "63f9325c9913e9c79a67df5bbaf629ce5b1f2708647d9f2f47116961b7adc8de",
+    "size": 51944402
   },
   "patches": []
 }
